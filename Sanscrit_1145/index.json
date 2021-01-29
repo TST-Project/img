@@ -4,6 +4,7 @@
     "http://iiif.io/api/presentation//context.json"
   ],
   "@id": "https://tst-project.github.io/img/Sanscrit_1145/index.json",
+  "profile": ["http://iiif.io/api/image/2/level0.json"],
   "type": "Manifest",
   "label": "BnF. Département des Manuscrits. Sanscrit 1145",
   "attribution": "Bibliothèque nationale de France",
