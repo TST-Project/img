@@ -217,8 +217,8 @@
                                         "@id": "https://tst-project.github.io/img/Sanscrit_1426/6_2r.png",
                                         "type": "Image",
                                         "format": "image/png",
-                                        "height": 1510,
-                                        "width": 3591
+                                        "height": 1352,
+                                        "width": 3200
                                     },
                                     "target": "https://tst-project.github.io/img/Sanscrit_1426/index.json/canvas/7"
                                 }
@@ -245,8 +245,8 @@
                                         "@id": "https://tst-project.github.io/img/Sanscrit_1426/7_2v.png",
                                         "type": "Image",
                                         "format": "image/png",
-                                        "height": 1352,
-                                        "width": 3200
+                                        "height": 1510,
+                                        "width": 3591
                                     },
                                     "target": "https://tst-project.github.io/img/Sanscrit_1426/index.json/canvas/8"
                                 }
