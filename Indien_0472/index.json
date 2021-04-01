@@ -1,0 +1,456 @@
+{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/presentation//context.json"
+    ],
+    "@id": "https://tst-project.github.io/img/Indien_0472/index.json",
+    "type": "Manifest",
+    "label": "BnF. Département des Manuscrits.",
+    "attribution": "Bibliothèque nationale de France",
+    "description": "Histoire de saint François Xavier",
+    "license": "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
+    "metadata": [
+        {
+            "label": "Shelfmark",
+            "value": "Bibliothèque nationale de France. Département des Manuscrits. Indien 472"
+        },
+        {
+            "label": "Title",
+            "value": "Indien 472"
+        },
+        {
+            "label": "Date",
+            "value": ""
+        },
+        {
+            "label": "Language",
+            "value": "Tamil"
+        }
+    ],
+    "sequences": [
+        {
+            "canvases": [
+                {
+                    "@id": "https://tst-project.gitnub.io/img/Indien_0472/index.json/canvas/1",
+                    "type": "Canvas",
+                    "height": 948,
+                    "width": 4507,
+                    "label": "0001",
+                    "items": [
+                        {
+                            "@id": "https://tst-project.github.io/img/Indien_0472/index.json/canvas/1/annotationpage/1",
+                            "type": "AnnotationPage",
+                            "items": [
+                                {
+                                    "@id": "https://tst-project.github.io/img/Indien_0472/index.json/canvas/1/annotation/1",
+                                    "type": "Annotation",
+                                    "motivation": "painting",
+                                    "body": {
+                                        "@id": "https://tst-project.github.io/img/Indien_0472/0001.png",
+                                        "type": "Image",
+                                        "format": "image/png",
+                                        "height": 948,
+                                        "width": 4507
+                                    },
+                                    "target": "https://tst-project.github.io/img/Indien_0472/index.json/canvas/1"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://tst-project.gitnub.io/img/Indien_0472/index.json/canvas/2",
+                    "type": "Canvas",
+                    "height": 549,
+                    "width": 4341,
+                    "label": "0002",
+                    "items": [
+                        {
+                            "@id": "https://tst-project.github.io/img/Indien_0472/index.json/canvas/2/annotationpage/1",
+                            "type": "AnnotationPage",
+                            "items": [
+                                {
+                                    "@id": "https://tst-project.github.io/img/Indien_0472/index.json/canvas/2/annotation/1",
+                                    "type": "Annotation",
+                                    "motivation": "painting",
+                                    "body": {
+                                        "@id": "https://tst-project.github.io/img/Indien_0472/0002.png",
+                                        "type": "Image",
+                                        "format": "image/png",
+                                        "height": 549,
+                                        "width": 4341
+                                    },
+                                    "target": "https://tst-project.github.io/img/Indien_0472/index.json/canvas/2"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://tst-project.gitnub.io/img/Indien_0472/index.json/canvas/3",
+                    "type": "Canvas",
+                    "height": 572,
+                    "width": 4440,
+                    "label": "0003",
+                    "items": [
+                        {
+                            "@id": "https://tst-project.github.io/img/Indien_0472/index.json/canvas/3/annotationpage/1",
+                            "type": "AnnotationPage",
+                            "items": [
+                                {
+                                    "@id": "https://tst-project.github.io/img/Indien_0472/index.json/canvas/3/annotation/1",
+                                    "type": "Annotation",
+                                    "motivation": "painting",
+                                    "body": {
+                                        "@id": "https://tst-project.github.io/img/Indien_0472/0003.png",
+                                        "type": "Image",
+                                        "format": "image/png",
+                                        "height": 572,
+                                        "width": 4440
+                                    },
+                                    "target": "https://tst-project.github.io/img/Indien_0472/index.json/canvas/3"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://tst-project.gitnub.io/img/Indien_0472/index.json/canvas/4",
+                    "type": "Canvas",
+                    "height": 1179,
+                    "width": 2623,
+                    "label": "0004",
+                    "items": [
+                        {
+                            "@id": "https://tst-project.github.io/img/Indien_0472/index.json/canvas/4/annotationpage/1",
+                            "type": "AnnotationPage",
+                            "items": [
+                                {
+                                    "@id": "https://tst-project.github.io/img/Indien_0472/index.json/canvas/4/annotation/1",
+                                    "type": "Annotation",
+                                    "motivation": "painting",
+                                    "body": {
+                                        "@id": "https://tst-project.github.io/img/Indien_0472/0004.png",
+                                        "type": "Image",
+                                        "format": "image/png",
+                                        "height": 1179,
+                                        "width": 2623
+                                    },
+                                    "target": "https://tst-project.github.io/img/Indien_0472/index.json/canvas/4"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://tst-project.gitnub.io/img/Indien_0472/index.json/canvas/5",
+                    "type": "Canvas",
+                    "height": 1213,
+                    "width": 2677,
+                    "label": "0005",
+                    "items": [
+                        {
+                            "@id": "https://tst-project.github.io/img/Indien_0472/index.json/canvas/5/annotationpage/1",
+                            "type": "AnnotationPage",
+                            "items": [
+                                {
+                                    "@id": "https://tst-project.github.io/img/Indien_0472/index.json/canvas/5/annotation/1",
+                                    "type": "Annotation",
+                                    "motivation": "painting",
+                                    "body": {
+                                        "@id": "https://tst-project.github.io/img/Indien_0472/0005.png",
+                                        "type": "Image",
+                                        "format": "image/png",
+                                        "height": 1213,
+                                        "width": 2677
+                                    },
+                                    "target": "https://tst-project.github.io/img/Indien_0472/index.json/canvas/5"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://tst-project.gitnub.io/img/Indien_0472/index.json/canvas/6",
+                    "type": "Canvas",
+                    "height": 817,
+                    "width": 2408,
+                    "label": "0006",
+                    "items": [
+                        {
+                            "@id": "https://tst-project.github.io/img/Indien_0472/index.json/canvas/6/annotationpage/1",
+                            "type": "AnnotationPage",
+                            "items": [
+                                {
+                                    "@id": "https://tst-project.github.io/img/Indien_0472/index.json/canvas/6/annotation/1",
+                                    "type": "Annotation",
+                                    "motivation": "painting",
+                                    "body": {
+                                        "@id": "https://tst-project.github.io/img/Indien_0472/0006.png",
+                                        "type": "Image",
+                                        "format": "image/png",
+                                        "height": 817,
+                                        "width": 2408
+                                    },
+                                    "target": "https://tst-project.github.io/img/Indien_0472/index.json/canvas/6"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://tst-project.gitnub.io/img/Indien_0472/index.json/canvas/7",
+                    "type": "Canvas",
+                    "height": 771,
+                    "width": 2206,
+                    "label": "0007",
+                    "items": [
+                        {
+                            "@id": "https://tst-project.github.io/img/Indien_0472/index.json/canvas/7/annotationpage/1",
+                            "type": "AnnotationPage",
+                            "items": [
+                                {
+                                    "@id": "https://tst-project.github.io/img/Indien_0472/index.json/canvas/7/annotation/1",
+                                    "type": "Annotation",
+                                    "motivation": "painting",
+                                    "body": {
+                                        "@id": "https://tst-project.github.io/img/Indien_0472/0007.png",
+                                        "type": "Image",
+                                        "format": "image/png",
+                                        "height": 771,
+                                        "width": 2206
+                                    },
+                                    "target": "https://tst-project.github.io/img/Indien_0472/index.json/canvas/7"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://tst-project.gitnub.io/img/Indien_0472/index.json/canvas/8",
+                    "type": "Canvas",
+                    "height": 595,
+                    "width": 1988,
+                    "label": "0008",
+                    "items": [
+                        {
+                            "@id": "https://tst-project.github.io/img/Indien_0472/index.json/canvas/8/annotationpage/1",
+                            "type": "AnnotationPage",
+                            "items": [
+                                {
+                                    "@id": "https://tst-project.github.io/img/Indien_0472/index.json/canvas/8/annotation/1",
+                                    "type": "Annotation",
+                                    "motivation": "painting",
+                                    "body": {
+                                        "@id": "https://tst-project.github.io/img/Indien_0472/0008.png",
+                                        "type": "Image",
+                                        "format": "image/png",
+                                        "height": 595,
+                                        "width": 1988
+                                    },
+                                    "target": "https://tst-project.github.io/img/Indien_0472/index.json/canvas/8"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://tst-project.gitnub.io/img/Indien_0472/index.json/canvas/9",
+                    "type": "Canvas",
+                    "height": 566,
+                    "width": 1899,
+                    "label": "0009",
+                    "items": [
+                        {
+                            "@id": "https://tst-project.github.io/img/Indien_0472/index.json/canvas/9/annotationpage/1",
+                            "type": "AnnotationPage",
+                            "items": [
+                                {
+                                    "@id": "https://tst-project.github.io/img/Indien_0472/index.json/canvas/9/annotation/1",
+                                    "type": "Annotation",
+                                    "motivation": "painting",
+                                    "body": {
+                                        "@id": "https://tst-project.github.io/img/Indien_0472/0009.png",
+                                        "type": "Image",
+                                        "format": "image/png",
+                                        "height": 566,
+                                        "width": 1899
+                                    },
+                                    "target": "https://tst-project.github.io/img/Indien_0472/index.json/canvas/9"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://tst-project.gitnub.io/img/Indien_0472/index.json/canvas/10",
+                    "type": "Canvas",
+                    "height": 632,
+                    "width": 1895,
+                    "label": "0010",
+                    "items": [
+                        {
+                            "@id": "https://tst-project.github.io/img/Indien_0472/index.json/canvas/10/annotationpage/1",
+                            "type": "AnnotationPage",
+                            "items": [
+                                {
+                                    "@id": "https://tst-project.github.io/img/Indien_0472/index.json/canvas/10/annotation/1",
+                                    "type": "Annotation",
+                                    "motivation": "painting",
+                                    "body": {
+                                        "@id": "https://tst-project.github.io/img/Indien_0472/0010.png",
+                                        "type": "Image",
+                                        "format": "image/png",
+                                        "height": 632,
+                                        "width": 1895
+                                    },
+                                    "target": "https://tst-project.github.io/img/Indien_0472/index.json/canvas/10"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://tst-project.gitnub.io/img/Indien_0472/index.json/canvas/11",
+                    "type": "Canvas",
+                    "height": 683,
+                    "width": 1954,
+                    "label": "0011",
+                    "items": [
+                        {
+                            "@id": "https://tst-project.github.io/img/Indien_0472/index.json/canvas/11/annotationpage/1",
+                            "type": "AnnotationPage",
+                            "items": [
+                                {
+                                    "@id": "https://tst-project.github.io/img/Indien_0472/index.json/canvas/11/annotation/1",
+                                    "type": "Annotation",
+                                    "motivation": "painting",
+                                    "body": {
+                                        "@id": "https://tst-project.github.io/img/Indien_0472/0011.png",
+                                        "type": "Image",
+                                        "format": "image/png",
+                                        "height": 683,
+                                        "width": 1954
+                                    },
+                                    "target": "https://tst-project.github.io/img/Indien_0472/index.json/canvas/11"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://tst-project.gitnub.io/img/Indien_0472/index.json/canvas/12",
+                    "type": "Canvas",
+                    "height": 564,
+                    "width": 1987,
+                    "label": "0012",
+                    "items": [
+                        {
+                            "@id": "https://tst-project.github.io/img/Indien_0472/index.json/canvas/12/annotationpage/1",
+                            "type": "AnnotationPage",
+                            "items": [
+                                {
+                                    "@id": "https://tst-project.github.io/img/Indien_0472/index.json/canvas/12/annotation/1",
+                                    "type": "Annotation",
+                                    "motivation": "painting",
+                                    "body": {
+                                        "@id": "https://tst-project.github.io/img/Indien_0472/0012.png",
+                                        "type": "Image",
+                                        "format": "image/png",
+                                        "height": 564,
+                                        "width": 1987
+                                    },
+                                    "target": "https://tst-project.github.io/img/Indien_0472/index.json/canvas/12"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://tst-project.gitnub.io/img/Indien_0472/index.json/canvas/13",
+                    "type": "Canvas",
+                    "height": 618,
+                    "width": 2194,
+                    "label": "0013",
+                    "items": [
+                        {
+                            "@id": "https://tst-project.github.io/img/Indien_0472/index.json/canvas/13/annotationpage/1",
+                            "type": "AnnotationPage",
+                            "items": [
+                                {
+                                    "@id": "https://tst-project.github.io/img/Indien_0472/index.json/canvas/13/annotation/1",
+                                    "type": "Annotation",
+                                    "motivation": "painting",
+                                    "body": {
+                                        "@id": "https://tst-project.github.io/img/Indien_0472/0013.png",
+                                        "type": "Image",
+                                        "format": "image/png",
+                                        "height": 618,
+                                        "width": 2194
+                                    },
+                                    "target": "https://tst-project.github.io/img/Indien_0472/index.json/canvas/13"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://tst-project.gitnub.io/img/Indien_0472/index.json/canvas/14",
+                    "type": "Canvas",
+                    "height": 566,
+                    "width": 3931,
+                    "label": "0014",
+                    "items": [
+                        {
+                            "@id": "https://tst-project.github.io/img/Indien_0472/index.json/canvas/14/annotationpage/1",
+                            "type": "AnnotationPage",
+                            "items": [
+                                {
+                                    "@id": "https://tst-project.github.io/img/Indien_0472/index.json/canvas/14/annotation/1",
+                                    "type": "Annotation",
+                                    "motivation": "painting",
+                                    "body": {
+                                        "@id": "https://tst-project.github.io/img/Indien_0472/0014.png",
+                                        "type": "Image",
+                                        "format": "image/png",
+                                        "height": 566,
+                                        "width": 3931
+                                    },
+                                    "target": "https://tst-project.github.io/img/Indien_0472/index.json/canvas/14"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://tst-project.gitnub.io/img/Indien_0472/index.json/canvas/15",
+                    "type": "Canvas",
+                    "height": 573,
+                    "width": 3932,
+                    "label": "0015",
+                    "items": [
+                        {
+                            "@id": "https://tst-project.github.io/img/Indien_0472/index.json/canvas/15/annotationpage/1",
+                            "type": "AnnotationPage",
+                            "items": [
+                                {
+                                    "@id": "https://tst-project.github.io/img/Indien_0472/index.json/canvas/15/annotation/1",
+                                    "type": "Annotation",
+                                    "motivation": "painting",
+                                    "body": {
+                                        "@id": "https://tst-project.github.io/img/Indien_0472/0015.png",
+                                        "type": "Image",
+                                        "format": "image/png",
+                                        "height": 573,
+                                        "width": 3932
+                                    },
+                                    "target": "https://tst-project.github.io/img/Indien_0472/index.json/canvas/15"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
