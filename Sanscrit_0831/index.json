@@ -1,0 +1,456 @@
+{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/presentation//context.json"
+    ],
+    "@id": "https://tst-project.github.io/img/Sanscrit_0831/index.json",
+    "type": "Manifest",
+    "label": "BnF. Département des Manuscrits.",
+    "attribution": "Bibliothèque nationale de France",
+    "description": "",
+    "license": "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
+    "metadata": [
+        {
+            "label": "Shelfmark",
+            "value": "Bibliothèque nationale de France. Département des Manuscrits. Sanscrit 831"
+        },
+        {
+            "label": "Title",
+            "value": "Sanscrit 831"
+        },
+        {
+            "label": "Date",
+            "value": ""
+        },
+        {
+            "label": "Language",
+            "value": "Sanskrit"
+        }
+    ],
+    "sequences": [
+        {
+            "canvases": [
+                {
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_0831/index.json/canvas/1",
+                    "type": "Canvas",
+                    "height": 1113,
+                    "width": 4232,
+                    "label": "0001",
+                    "items": [
+                        {
+                            "@id": "https://tst-project.github.io/img/Sanscrit_0831/index.json/canvas/1/annotationpage/1",
+                            "type": "AnnotationPage",
+                            "items": [
+                                {
+                                    "@id": "https://tst-project.github.io/img/Sanscrit_0831/index.json/canvas/1/annotation/1",
+                                    "type": "Annotation",
+                                    "motivation": "painting",
+                                    "body": {
+                                        "@id": "https://tst-project.github.io/img/Sanscrit_0831/0001.png",
+                                        "type": "Image",
+                                        "format": "image/png",
+                                        "height": 1113,
+                                        "width": 4232
+                                    },
+                                    "target": "https://tst-project.github.io/img/Sanscrit_0831/index.json/canvas/1"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_0831/index.json/canvas/2",
+                    "type": "Canvas",
+                    "height": 859,
+                    "width": 4424,
+                    "label": "0002",
+                    "items": [
+                        {
+                            "@id": "https://tst-project.github.io/img/Sanscrit_0831/index.json/canvas/2/annotationpage/1",
+                            "type": "AnnotationPage",
+                            "items": [
+                                {
+                                    "@id": "https://tst-project.github.io/img/Sanscrit_0831/index.json/canvas/2/annotation/1",
+                                    "type": "Annotation",
+                                    "motivation": "painting",
+                                    "body": {
+                                        "@id": "https://tst-project.github.io/img/Sanscrit_0831/0002.png",
+                                        "type": "Image",
+                                        "format": "image/png",
+                                        "height": 859,
+                                        "width": 4424
+                                    },
+                                    "target": "https://tst-project.github.io/img/Sanscrit_0831/index.json/canvas/2"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_0831/index.json/canvas/3",
+                    "type": "Canvas",
+                    "height": 849,
+                    "width": 4419,
+                    "label": "0003",
+                    "items": [
+                        {
+                            "@id": "https://tst-project.github.io/img/Sanscrit_0831/index.json/canvas/3/annotationpage/1",
+                            "type": "AnnotationPage",
+                            "items": [
+                                {
+                                    "@id": "https://tst-project.github.io/img/Sanscrit_0831/index.json/canvas/3/annotation/1",
+                                    "type": "Annotation",
+                                    "motivation": "painting",
+                                    "body": {
+                                        "@id": "https://tst-project.github.io/img/Sanscrit_0831/0003.png",
+                                        "type": "Image",
+                                        "format": "image/png",
+                                        "height": 849,
+                                        "width": 4419
+                                    },
+                                    "target": "https://tst-project.github.io/img/Sanscrit_0831/index.json/canvas/3"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_0831/index.json/canvas/4",
+                    "type": "Canvas",
+                    "height": 1065,
+                    "width": 3814,
+                    "label": "0004",
+                    "items": [
+                        {
+                            "@id": "https://tst-project.github.io/img/Sanscrit_0831/index.json/canvas/4/annotationpage/1",
+                            "type": "AnnotationPage",
+                            "items": [
+                                {
+                                    "@id": "https://tst-project.github.io/img/Sanscrit_0831/index.json/canvas/4/annotation/1",
+                                    "type": "Annotation",
+                                    "motivation": "painting",
+                                    "body": {
+                                        "@id": "https://tst-project.github.io/img/Sanscrit_0831/0004.png",
+                                        "type": "Image",
+                                        "format": "image/png",
+                                        "height": 1065,
+                                        "width": 3814
+                                    },
+                                    "target": "https://tst-project.github.io/img/Sanscrit_0831/index.json/canvas/4"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_0831/index.json/canvas/5",
+                    "type": "Canvas",
+                    "height": 1047,
+                    "width": 3894,
+                    "label": "0005",
+                    "items": [
+                        {
+                            "@id": "https://tst-project.github.io/img/Sanscrit_0831/index.json/canvas/5/annotationpage/1",
+                            "type": "AnnotationPage",
+                            "items": [
+                                {
+                                    "@id": "https://tst-project.github.io/img/Sanscrit_0831/index.json/canvas/5/annotation/1",
+                                    "type": "Annotation",
+                                    "motivation": "painting",
+                                    "body": {
+                                        "@id": "https://tst-project.github.io/img/Sanscrit_0831/0005.png",
+                                        "type": "Image",
+                                        "format": "image/png",
+                                        "height": 1047,
+                                        "width": 3894
+                                    },
+                                    "target": "https://tst-project.github.io/img/Sanscrit_0831/index.json/canvas/5"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_0831/index.json/canvas/6",
+                    "type": "Canvas",
+                    "height": 886,
+                    "width": 4241,
+                    "label": "0006",
+                    "items": [
+                        {
+                            "@id": "https://tst-project.github.io/img/Sanscrit_0831/index.json/canvas/6/annotationpage/1",
+                            "type": "AnnotationPage",
+                            "items": [
+                                {
+                                    "@id": "https://tst-project.github.io/img/Sanscrit_0831/index.json/canvas/6/annotation/1",
+                                    "type": "Annotation",
+                                    "motivation": "painting",
+                                    "body": {
+                                        "@id": "https://tst-project.github.io/img/Sanscrit_0831/0006.png",
+                                        "type": "Image",
+                                        "format": "image/png",
+                                        "height": 886,
+                                        "width": 4241
+                                    },
+                                    "target": "https://tst-project.github.io/img/Sanscrit_0831/index.json/canvas/6"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_0831/index.json/canvas/7",
+                    "type": "Canvas",
+                    "height": 904,
+                    "width": 4209,
+                    "label": "0007",
+                    "items": [
+                        {
+                            "@id": "https://tst-project.github.io/img/Sanscrit_0831/index.json/canvas/7/annotationpage/1",
+                            "type": "AnnotationPage",
+                            "items": [
+                                {
+                                    "@id": "https://tst-project.github.io/img/Sanscrit_0831/index.json/canvas/7/annotation/1",
+                                    "type": "Annotation",
+                                    "motivation": "painting",
+                                    "body": {
+                                        "@id": "https://tst-project.github.io/img/Sanscrit_0831/0007.png",
+                                        "type": "Image",
+                                        "format": "image/png",
+                                        "height": 904,
+                                        "width": 4209
+                                    },
+                                    "target": "https://tst-project.github.io/img/Sanscrit_0831/index.json/canvas/7"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_0831/index.json/canvas/8",
+                    "type": "Canvas",
+                    "height": 868,
+                    "width": 4201,
+                    "label": "0008",
+                    "items": [
+                        {
+                            "@id": "https://tst-project.github.io/img/Sanscrit_0831/index.json/canvas/8/annotationpage/1",
+                            "type": "AnnotationPage",
+                            "items": [
+                                {
+                                    "@id": "https://tst-project.github.io/img/Sanscrit_0831/index.json/canvas/8/annotation/1",
+                                    "type": "Annotation",
+                                    "motivation": "painting",
+                                    "body": {
+                                        "@id": "https://tst-project.github.io/img/Sanscrit_0831/0008.png",
+                                        "type": "Image",
+                                        "format": "image/png",
+                                        "height": 868,
+                                        "width": 4201
+                                    },
+                                    "target": "https://tst-project.github.io/img/Sanscrit_0831/index.json/canvas/8"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_0831/index.json/canvas/9",
+                    "type": "Canvas",
+                    "height": 911,
+                    "width": 4362,
+                    "label": "0009",
+                    "items": [
+                        {
+                            "@id": "https://tst-project.github.io/img/Sanscrit_0831/index.json/canvas/9/annotationpage/1",
+                            "type": "AnnotationPage",
+                            "items": [
+                                {
+                                    "@id": "https://tst-project.github.io/img/Sanscrit_0831/index.json/canvas/9/annotation/1",
+                                    "type": "Annotation",
+                                    "motivation": "painting",
+                                    "body": {
+                                        "@id": "https://tst-project.github.io/img/Sanscrit_0831/0009.png",
+                                        "type": "Image",
+                                        "format": "image/png",
+                                        "height": 911,
+                                        "width": 4362
+                                    },
+                                    "target": "https://tst-project.github.io/img/Sanscrit_0831/index.json/canvas/9"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_0831/index.json/canvas/10",
+                    "type": "Canvas",
+                    "height": 841,
+                    "width": 4146,
+                    "label": "0010",
+                    "items": [
+                        {
+                            "@id": "https://tst-project.github.io/img/Sanscrit_0831/index.json/canvas/10/annotationpage/1",
+                            "type": "AnnotationPage",
+                            "items": [
+                                {
+                                    "@id": "https://tst-project.github.io/img/Sanscrit_0831/index.json/canvas/10/annotation/1",
+                                    "type": "Annotation",
+                                    "motivation": "painting",
+                                    "body": {
+                                        "@id": "https://tst-project.github.io/img/Sanscrit_0831/0010.png",
+                                        "type": "Image",
+                                        "format": "image/png",
+                                        "height": 841,
+                                        "width": 4146
+                                    },
+                                    "target": "https://tst-project.github.io/img/Sanscrit_0831/index.json/canvas/10"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_0831/index.json/canvas/11",
+                    "type": "Canvas",
+                    "height": 895,
+                    "width": 4348,
+                    "label": "0011",
+                    "items": [
+                        {
+                            "@id": "https://tst-project.github.io/img/Sanscrit_0831/index.json/canvas/11/annotationpage/1",
+                            "type": "AnnotationPage",
+                            "items": [
+                                {
+                                    "@id": "https://tst-project.github.io/img/Sanscrit_0831/index.json/canvas/11/annotation/1",
+                                    "type": "Annotation",
+                                    "motivation": "painting",
+                                    "body": {
+                                        "@id": "https://tst-project.github.io/img/Sanscrit_0831/0011.png",
+                                        "type": "Image",
+                                        "format": "image/png",
+                                        "height": 895,
+                                        "width": 4348
+                                    },
+                                    "target": "https://tst-project.github.io/img/Sanscrit_0831/index.json/canvas/11"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_0831/index.json/canvas/12",
+                    "type": "Canvas",
+                    "height": 871,
+                    "width": 4311,
+                    "label": "0012",
+                    "items": [
+                        {
+                            "@id": "https://tst-project.github.io/img/Sanscrit_0831/index.json/canvas/12/annotationpage/1",
+                            "type": "AnnotationPage",
+                            "items": [
+                                {
+                                    "@id": "https://tst-project.github.io/img/Sanscrit_0831/index.json/canvas/12/annotation/1",
+                                    "type": "Annotation",
+                                    "motivation": "painting",
+                                    "body": {
+                                        "@id": "https://tst-project.github.io/img/Sanscrit_0831/0012.png",
+                                        "type": "Image",
+                                        "format": "image/png",
+                                        "height": 871,
+                                        "width": 4311
+                                    },
+                                    "target": "https://tst-project.github.io/img/Sanscrit_0831/index.json/canvas/12"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_0831/index.json/canvas/13",
+                    "type": "Canvas",
+                    "height": 887,
+                    "width": 4353,
+                    "label": "0013",
+                    "items": [
+                        {
+                            "@id": "https://tst-project.github.io/img/Sanscrit_0831/index.json/canvas/13/annotationpage/1",
+                            "type": "AnnotationPage",
+                            "items": [
+                                {
+                                    "@id": "https://tst-project.github.io/img/Sanscrit_0831/index.json/canvas/13/annotation/1",
+                                    "type": "Annotation",
+                                    "motivation": "painting",
+                                    "body": {
+                                        "@id": "https://tst-project.github.io/img/Sanscrit_0831/0013.png",
+                                        "type": "Image",
+                                        "format": "image/png",
+                                        "height": 887,
+                                        "width": 4353
+                                    },
+                                    "target": "https://tst-project.github.io/img/Sanscrit_0831/index.json/canvas/13"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_0831/index.json/canvas/14",
+                    "type": "Canvas",
+                    "height": 876,
+                    "width": 4336,
+                    "label": "0014",
+                    "items": [
+                        {
+                            "@id": "https://tst-project.github.io/img/Sanscrit_0831/index.json/canvas/14/annotationpage/1",
+                            "type": "AnnotationPage",
+                            "items": [
+                                {
+                                    "@id": "https://tst-project.github.io/img/Sanscrit_0831/index.json/canvas/14/annotation/1",
+                                    "type": "Annotation",
+                                    "motivation": "painting",
+                                    "body": {
+                                        "@id": "https://tst-project.github.io/img/Sanscrit_0831/0014.png",
+                                        "type": "Image",
+                                        "format": "image/png",
+                                        "height": 876,
+                                        "width": 4336
+                                    },
+                                    "target": "https://tst-project.github.io/img/Sanscrit_0831/index.json/canvas/14"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_0831/index.json/canvas/15",
+                    "type": "Canvas",
+                    "height": 827,
+                    "width": 4247,
+                    "label": "0015",
+                    "items": [
+                        {
+                            "@id": "https://tst-project.github.io/img/Sanscrit_0831/index.json/canvas/15/annotationpage/1",
+                            "type": "AnnotationPage",
+                            "items": [
+                                {
+                                    "@id": "https://tst-project.github.io/img/Sanscrit_0831/index.json/canvas/15/annotation/1",
+                                    "type": "Annotation",
+                                    "motivation": "painting",
+                                    "body": {
+                                        "@id": "https://tst-project.github.io/img/Sanscrit_0831/0015.png",
+                                        "type": "Image",
+                                        "format": "image/png",
+                                        "height": 827,
+                                        "width": 4247
+                                    },
+                                    "target": "https://tst-project.github.io/img/Sanscrit_0831/index.json/canvas/15"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
