@@ -31,7 +31,7 @@
         {
             "canvases": [
                 {
-                    "@id": "https://tst-project.gitnub.io/Sanskrit/img/Sanscrit_1146/index.json/canvas/1",
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_1146/index.json/canvas/1",
                     "type": "Canvas",
                     "height": 987,
                     "width": 3286,
@@ -59,7 +59,7 @@
                     ]
                 },
                 {
-                    "@id": "https://tst-project.gitnub.io/Sanskrit/img/Sanscrit_1146/index.json/canvas/2",
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_1146/index.json/canvas/2",
                     "type": "Canvas",
                     "height": 681,
                     "width": 2614,
@@ -87,7 +87,7 @@
                     ]
                 },
                 {
-                    "@id": "https://tst-project.gitnub.io/Sanskrit/img/Sanscrit_1146/index.json/canvas/3",
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_1146/index.json/canvas/3",
                     "type": "Canvas",
                     "height": 817,
                     "width": 3090,
@@ -115,7 +115,7 @@
                     ]
                 },
                 {
-                    "@id": "https://tst-project.gitnub.io/Sanskrit/img/Sanscrit_1146/index.json/canvas/4",
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_1146/index.json/canvas/4",
                     "type": "Canvas",
                     "height": 840,
                     "width": 3176,
@@ -143,7 +143,7 @@
                     ]
                 },
                 {
-                    "@id": "https://tst-project.gitnub.io/Sanskrit/img/Sanscrit_1146/index.json/canvas/5",
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_1146/index.json/canvas/5",
                     "type": "Canvas",
                     "height": 817,
                     "width": 3127,
@@ -171,7 +171,7 @@
                     ]
                 },
                 {
-                    "@id": "https://tst-project.gitnub.io/Sanskrit/img/Sanscrit_1146/index.json/canvas/6",
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_1146/index.json/canvas/6",
                     "type": "Canvas",
                     "height": 808,
                     "width": 3095,
@@ -199,7 +199,7 @@
                     ]
                 },
                 {
-                    "@id": "https://tst-project.gitnub.io/Sanskrit/img/Sanscrit_1146/index.json/canvas/7",
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_1146/index.json/canvas/7",
                     "type": "Canvas",
                     "height": 818,
                     "width": 3115,
@@ -227,7 +227,7 @@
                     ]
                 },
                 {
-                    "@id": "https://tst-project.gitnub.io/Sanskrit/img/Sanscrit_1146/index.json/canvas/8",
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_1146/index.json/canvas/8",
                     "type": "Canvas",
                     "height": 771,
                     "width": 3089,
@@ -255,7 +255,7 @@
                     ]
                 },
                 {
-                    "@id": "https://tst-project.gitnub.io/Sanskrit/img/Sanscrit_1146/index.json/canvas/9",
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_1146/index.json/canvas/9",
                     "type": "Canvas",
                     "height": 680,
                     "width": 2631,
@@ -283,7 +283,7 @@
                     ]
                 },
                 {
-                    "@id": "https://tst-project.gitnub.io/Sanskrit/img/Sanscrit_1146/index.json/canvas/10",
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_1146/index.json/canvas/10",
                     "type": "Canvas",
                     "height": 675,
                     "width": 2618,
@@ -311,7 +311,7 @@
                     ]
                 },
                 {
-                    "@id": "https://tst-project.gitnub.io/Sanskrit/img/Sanscrit_1146/index.json/canvas/11",
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_1146/index.json/canvas/11",
                     "type": "Canvas",
                     "height": 857,
                     "width": 3457,
@@ -339,7 +339,7 @@
                     ]
                 },
                 {
-                    "@id": "https://tst-project.gitnub.io/Sanskrit/img/Sanscrit_1146/index.json/canvas/12",
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_1146/index.json/canvas/12",
                     "type": "Canvas",
                     "height": 848,
                     "width": 3430,
@@ -367,7 +367,7 @@
                     ]
                 },
                 {
-                    "@id": "https://tst-project.gitnub.io/Sanskrit/img/Sanscrit_1146/index.json/canvas/13",
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_1146/index.json/canvas/13",
                     "type": "Canvas",
                     "height": 790,
                     "width": 3120,
@@ -395,7 +395,7 @@
                     ]
                 },
                 {
-                    "@id": "https://tst-project.gitnub.io/Sanskrit/img/Sanscrit_1146/index.json/canvas/14",
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_1146/index.json/canvas/14",
                     "type": "Canvas",
                     "height": 789,
                     "width": 3119,
@@ -423,7 +423,7 @@
                     ]
                 },
                 {
-                    "@id": "https://tst-project.gitnub.io/Sanskrit/img/Sanscrit_1146/index.json/canvas/15",
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_1146/index.json/canvas/15",
                     "type": "Canvas",
                     "height": 859,
                     "width": 3258,
@@ -451,7 +451,7 @@
                     ]
                 },
                 {
-                    "@id": "https://tst-project.gitnub.io/Sanskrit/img/Sanscrit_1146/index.json/canvas/16",
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_1146/index.json/canvas/16",
                     "type": "Canvas",
                     "height": 849,
                     "width": 3263,
@@ -479,7 +479,7 @@
                     ]
                 },
                 {
-                    "@id": "https://tst-project.gitnub.io/Sanskrit/img/Sanscrit_1146/index.json/canvas/17",
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_1146/index.json/canvas/17",
                     "type": "Canvas",
                     "height": 795,
                     "width": 3106,
@@ -507,7 +507,7 @@
                     ]
                 },
                 {
-                    "@id": "https://tst-project.gitnub.io/Sanskrit/img/Sanscrit_1146/index.json/canvas/18",
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_1146/index.json/canvas/18",
                     "type": "Canvas",
                     "height": 770,
                     "width": 3046,
@@ -535,7 +535,7 @@
                     ]
                 },
                 {
-                    "@id": "https://tst-project.gitnub.io/Sanskrit/img/Sanscrit_1146/index.json/canvas/19",
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_1146/index.json/canvas/19",
                     "type": "Canvas",
                     "height": 831,
                     "width": 3261,
@@ -563,7 +563,7 @@
                     ]
                 },
                 {
-                    "@id": "https://tst-project.gitnub.io/Sanskrit/img/Sanscrit_1146/index.json/canvas/20",
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_1146/index.json/canvas/20",
                     "type": "Canvas",
                     "height": 807,
                     "width": 3245,
@@ -591,7 +591,7 @@
                     ]
                 },
                 {
-                    "@id": "https://tst-project.gitnub.io/Sanskrit/img/Sanscrit_1146/index.json/canvas/21",
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_1146/index.json/canvas/21",
                     "type": "Canvas",
                     "height": 824,
                     "width": 3229,
@@ -619,7 +619,7 @@
                     ]
                 },
                 {
-                    "@id": "https://tst-project.gitnub.io/Sanskrit/img/Sanscrit_1146/index.json/canvas/22",
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_1146/index.json/canvas/22",
                     "type": "Canvas",
                     "height": 824,
                     "width": 3232,
@@ -647,7 +647,7 @@
                     ]
                 },
                 {
-                    "@id": "https://tst-project.gitnub.io/Sanskrit/img/Sanscrit_1146/index.json/canvas/23",
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_1146/index.json/canvas/23",
                     "type": "Canvas",
                     "height": 827,
                     "width": 3201,
@@ -675,7 +675,7 @@
                     ]
                 },
                 {
-                    "@id": "https://tst-project.gitnub.io/Sanskrit/img/Sanscrit_1146/index.json/canvas/24",
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_1146/index.json/canvas/24",
                     "type": "Canvas",
                     "height": 796,
                     "width": 3186,
@@ -703,7 +703,7 @@
                     ]
                 },
                 {
-                    "@id": "https://tst-project.gitnub.io/Sanskrit/img/Sanscrit_1146/index.json/canvas/25",
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_1146/index.json/canvas/25",
                     "type": "Canvas",
                     "height": 766,
                     "width": 2971,
@@ -731,7 +731,7 @@
                     ]
                 },
                 {
-                    "@id": "https://tst-project.gitnub.io/Sanskrit/img/Sanscrit_1146/index.json/canvas/26",
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_1146/index.json/canvas/26",
                     "type": "Canvas",
                     "height": 758,
                     "width": 2945,
@@ -759,7 +759,7 @@
                     ]
                 },
                 {
-                    "@id": "https://tst-project.gitnub.io/Sanskrit/img/Sanscrit_1146/index.json/canvas/27",
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_1146/index.json/canvas/27",
                     "type": "Canvas",
                     "height": 800,
                     "width": 3146,
@@ -787,7 +787,7 @@
                     ]
                 },
                 {
-                    "@id": "https://tst-project.gitnub.io/Sanskrit/img/Sanscrit_1146/index.json/canvas/28",
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_1146/index.json/canvas/28",
                     "type": "Canvas",
                     "height": 794,
                     "width": 3080,
@@ -815,7 +815,7 @@
                     ]
                 },
                 {
-                    "@id": "https://tst-project.gitnub.io/Sanskrit/img/Sanscrit_1146/index.json/canvas/29",
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_1146/index.json/canvas/29",
                     "type": "Canvas",
                     "height": 773,
                     "width": 3062,
@@ -843,7 +843,7 @@
                     ]
                 },
                 {
-                    "@id": "https://tst-project.gitnub.io/Sanskrit/img/Sanscrit_1146/index.json/canvas/30",
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_1146/index.json/canvas/30",
                     "type": "Canvas",
                     "height": 766,
                     "width": 3054,
@@ -871,7 +871,7 @@
                     ]
                 },
                 {
-                    "@id": "https://tst-project.gitnub.io/Sanskrit/img/Sanscrit_1146/index.json/canvas/31",
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_1146/index.json/canvas/31",
                     "type": "Canvas",
                     "height": 734,
                     "width": 2911,
@@ -899,7 +899,7 @@
                     ]
                 },
                 {
-                    "@id": "https://tst-project.gitnub.io/Sanskrit/img/Sanscrit_1146/index.json/canvas/32",
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_1146/index.json/canvas/32",
                     "type": "Canvas",
                     "height": 731,
                     "width": 2865,
@@ -927,7 +927,7 @@
                     ]
                 },
                 {
-                    "@id": "https://tst-project.gitnub.io/Sanskrit/img/Sanscrit_1146/index.json/canvas/33",
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_1146/index.json/canvas/33",
                     "type": "Canvas",
                     "height": 781,
                     "width": 3050,
@@ -955,7 +955,7 @@
                     ]
                 },
                 {
-                    "@id": "https://tst-project.gitnub.io/Sanskrit/img/Sanscrit_1146/index.json/canvas/34",
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_1146/index.json/canvas/34",
                     "type": "Canvas",
                     "height": 762,
                     "width": 2971,
@@ -983,7 +983,7 @@
                     ]
                 },
                 {
-                    "@id": "https://tst-project.gitnub.io/Sanskrit/img/Sanscrit_1146/index.json/canvas/35",
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_1146/index.json/canvas/35",
                     "type": "Canvas",
                     "height": 770,
                     "width": 3032,
@@ -1011,7 +1011,7 @@
                     ]
                 },
                 {
-                    "@id": "https://tst-project.gitnub.io/Sanskrit/img/Sanscrit_1146/index.json/canvas/36",
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_1146/index.json/canvas/36",
                     "type": "Canvas",
                     "height": 724,
                     "width": 2977,
@@ -1039,7 +1039,7 @@
                     ]
                 },
                 {
-                    "@id": "https://tst-project.gitnub.io/Sanskrit/img/Sanscrit_1146/index.json/canvas/37",
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_1146/index.json/canvas/37",
                     "type": "Canvas",
                     "height": 810,
                     "width": 3166,
@@ -1067,7 +1067,7 @@
                     ]
                 },
                 {
-                    "@id": "https://tst-project.gitnub.io/Sanskrit/img/Sanscrit_1146/index.json/canvas/38",
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_1146/index.json/canvas/38",
                     "type": "Canvas",
                     "height": 761,
                     "width": 3158,
@@ -1095,7 +1095,7 @@
                     ]
                 },
                 {
-                    "@id": "https://tst-project.gitnub.io/Sanskrit/img/Sanscrit_1146/index.json/canvas/39",
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_1146/index.json/canvas/39",
                     "type": "Canvas",
                     "height": 738,
                     "width": 3051,
@@ -1123,7 +1123,7 @@
                     ]
                 },
                 {
-                    "@id": "https://tst-project.gitnub.io/Sanskrit/img/Sanscrit_1146/index.json/canvas/40",
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_1146/index.json/canvas/40",
                     "type": "Canvas",
                     "height": 765,
                     "width": 3048,
@@ -1151,7 +1151,7 @@
                     ]
                 },
                 {
-                    "@id": "https://tst-project.gitnub.io/Sanskrit/img/Sanscrit_1146/index.json/canvas/41",
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_1146/index.json/canvas/41",
                     "type": "Canvas",
                     "height": 755,
                     "width": 2925,
@@ -1179,7 +1179,7 @@
                     ]
                 },
                 {
-                    "@id": "https://tst-project.gitnub.io/Sanskrit/img/Sanscrit_1146/index.json/canvas/42",
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_1146/index.json/canvas/42",
                     "type": "Canvas",
                     "height": 730,
                     "width": 2908,
@@ -1207,7 +1207,7 @@
                     ]
                 },
                 {
-                    "@id": "https://tst-project.gitnub.io/Sanskrit/img/Sanscrit_1146/index.json/canvas/43",
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_1146/index.json/canvas/43",
                     "type": "Canvas",
                     "height": 777,
                     "width": 3049,
@@ -1235,7 +1235,7 @@
                     ]
                 },
                 {
-                    "@id": "https://tst-project.gitnub.io/Sanskrit/img/Sanscrit_1146/index.json/canvas/44",
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_1146/index.json/canvas/44",
                     "type": "Canvas",
                     "height": 797,
                     "width": 3035,
@@ -1263,7 +1263,7 @@
                     ]
                 },
                 {
-                    "@id": "https://tst-project.gitnub.io/Sanskrit/img/Sanscrit_1146/index.json/canvas/45",
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_1146/index.json/canvas/45",
                     "type": "Canvas",
                     "height": 766,
                     "width": 2964,
@@ -1291,7 +1291,7 @@
                     ]
                 },
                 {
-                    "@id": "https://tst-project.gitnub.io/Sanskrit/img/Sanscrit_1146/index.json/canvas/46",
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_1146/index.json/canvas/46",
                     "type": "Canvas",
                     "height": 736,
                     "width": 2955,
@@ -1319,7 +1319,7 @@
                     ]
                 },
                 {
-                    "@id": "https://tst-project.gitnub.io/Sanskrit/img/Sanscrit_1146/index.json/canvas/47",
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_1146/index.json/canvas/47",
                     "type": "Canvas",
                     "height": 786,
                     "width": 3100,
@@ -1347,7 +1347,7 @@
                     ]
                 },
                 {
-                    "@id": "https://tst-project.gitnub.io/Sanskrit/img/Sanscrit_1146/index.json/canvas/48",
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_1146/index.json/canvas/48",
                     "type": "Canvas",
                     "height": 758,
                     "width": 3112,
@@ -1375,7 +1375,7 @@
                     ]
                 },
                 {
-                    "@id": "https://tst-project.gitnub.io/Sanskrit/img/Sanscrit_1146/index.json/canvas/49",
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_1146/index.json/canvas/49",
                     "type": "Canvas",
                     "height": 770,
                     "width": 2973,
@@ -1403,7 +1403,7 @@
                     ]
                 },
                 {
-                    "@id": "https://tst-project.gitnub.io/Sanskrit/img/Sanscrit_1146/index.json/canvas/50",
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_1146/index.json/canvas/50",
                     "type": "Canvas",
                     "height": 760,
                     "width": 2914,
@@ -1431,7 +1431,7 @@
                     ]
                 },
                 {
-                    "@id": "https://tst-project.gitnub.io/Sanskrit/img/Sanscrit_1146/index.json/canvas/51",
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_1146/index.json/canvas/51",
                     "type": "Canvas",
                     "height": 788,
                     "width": 3065,
@@ -1459,7 +1459,7 @@
                     ]
                 },
                 {
-                    "@id": "https://tst-project.gitnub.io/Sanskrit/img/Sanscrit_1146/index.json/canvas/52",
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_1146/index.json/canvas/52",
                     "type": "Canvas",
                     "height": 779,
                     "width": 3040,
@@ -1487,7 +1487,7 @@
                     ]
                 },
                 {
-                    "@id": "https://tst-project.gitnub.io/Sanskrit/img/Sanscrit_1146/index.json/canvas/53",
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_1146/index.json/canvas/53",
                     "type": "Canvas",
                     "height": 742,
                     "width": 2970,
@@ -1515,7 +1515,7 @@
                     ]
                 },
                 {
-                    "@id": "https://tst-project.gitnub.io/Sanskrit/img/Sanscrit_1146/index.json/canvas/54",
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_1146/index.json/canvas/54",
                     "type": "Canvas",
                     "height": 747,
                     "width": 2956,
@@ -1543,7 +1543,7 @@
                     ]
                 },
                 {
-                    "@id": "https://tst-project.gitnub.io/Sanskrit/img/Sanscrit_1146/index.json/canvas/55",
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_1146/index.json/canvas/55",
                     "type": "Canvas",
                     "height": 736,
                     "width": 2882,
@@ -1571,7 +1571,7 @@
                     ]
                 },
                 {
-                    "@id": "https://tst-project.gitnub.io/Sanskrit/img/Sanscrit_1146/index.json/canvas/56",
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_1146/index.json/canvas/56",
                     "type": "Canvas",
                     "height": 748,
                     "width": 2825,
@@ -1599,7 +1599,7 @@
                     ]
                 },
                 {
-                    "@id": "https://tst-project.gitnub.io/Sanskrit/img/Sanscrit_1146/index.json/canvas/57",
+                    "@id": "https://tst-project.gitnub.io/img/Sanscrit_1146/index.json/canvas/57",
                     "type": "Canvas",
                     "height": 898,
                     "width": 3523,
