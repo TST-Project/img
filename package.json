@@ -1,0 +1,15 @@
+{
+  "name": "make-manifest",
+  "version": "1.0.0",
+  "main": "makemanifest.mjs",
+  "repository": "git@github.com:TST-Project/img.git",
+  "author": "charles.li@cnrs.fr",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "image-size": "^1.0.1"
+  },
+  "scripts": {
+    "make": "node makemanifest.mjs"
+  }
+}
